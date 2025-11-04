@@ -29,9 +29,3 @@ Ce projet explore un jeu de données e-commerce contenant des informations sur d
 - Python
 - Pandas
 - Matplotlib
-
-##  Lancer le projet
-
-1. Installer les dépendances :
-   ```bash
-   pip install pandas matplotlib
